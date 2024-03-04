@@ -1,6 +1,6 @@
 ---
 name: Submodel Template Proposal
-about: Proposal to build a community for an AAS Submodel Templates
+about: Proposal to build a community for an AAS Submodel Template
 title: ''
 labels: ''
 assignees: ''
