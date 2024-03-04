@@ -17,6 +17,7 @@ Our services are financed through sponsoring via the corresponding GitHub functi
 6. Ongoing documentation on GitHub
 7. Quality control and conformity check to the specifications
 8. Organization of the review process and release
+   
 Optional: Submission to the IDTA to set up an IDTA working group for the SMT with the aim of publishing it as an official IDTA specification; handover to this working group and, if funded, support for the IDTA process
 
 
