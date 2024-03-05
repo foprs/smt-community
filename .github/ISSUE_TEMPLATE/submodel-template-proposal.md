@@ -7,10 +7,7 @@ assignees: ''
 
 ---
 
-**Title**
-- Title of the proposed SMT
-
-**Asset type/class
+**Asset type/class**
 - Type/class of asset for that the SMT can be used
 
 **Use Case**
