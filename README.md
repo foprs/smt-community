@@ -9,7 +9,7 @@ Our services are financed through sponsoring via the corresponding GitHub functi
 
 **Procedure of the SMT service**
 
-1. Publication of suggestions for SMT on this repository by the community
+1. Publication of suggestions for SMT on this repository by the community (via Issues)
 2. Taking up SMT suggestions with a lot of interest (comments on the issues) and technical familiarization with the subject area
 3. Analysis of existing SMT with regard to overlaps and synergies, evaluation of potential 
 4. Creation of an own repository for the SMT, rough conception of the SMT and description of the use case 
