@@ -10,6 +10,9 @@ assignees: ''
 **Asset type/class**
 - Type/class of asset for that the SMT can be used
 
+**Description**
+- Outlining of the idea
+
 **Use Case**
 - Use Case of the proposed SMT
 - Internal / cross-company application
