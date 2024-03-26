@@ -1,23 +1,18 @@
-# Submodel-Template-Proposals
+# AAS-connect Submodel Template Community
+True interoperability with the Asset Administration Shell requires high-quality and by a broad community used Submodel Templates. There are many use cases for the AAS and not every 'thinkable' SMT can be probably provided by IDTA. This is where our **open** Submodel Template Community comes into the game.  
 
-True interoperability with the Asset Administration Shell requires high-quality and accepted Submodel Templates. It must be ensured that these are continuously developed, reliably maintained and regularly published. This is where the Submodel Template Service (SMT Service) from FoP Consult GmbH comes in: https://aas-connect.com/smt-service.
+We are picking new ideas for SMT from the **issue list of this repo** and are organizing development workshops for SMT. This includes a thorough preparation and moderation of each workshop as well as documentation of the results as SMT specification here on GitHub in order to lead the community of experts to be able to present a new improved version after every workshop. Every SMT will get its own repository on GitHub with an own issue list, documentation and releases. The SMT will be published with a CC-BY-4.0 license.  
 
-**You can use this repository to publish (create issues for) ideas for already existing or new Submodel Templates!** Depending on the potential of the idea and responses of the community we as FoP Consult GmbH will pick up the idea and start with forming a community for that SMT.
+We are following all relevant AAS specifications, ensure the application of best practices and established standards. Where appropriate SMT can be developed also as Semantic Aspect Meta Model (SAMM) in a first step.
+The FoP Consult GmbH has extensive experiences in AAS modeling and can thus support the community with architecture and design decisions.
 
-Our services are financed through sponsoring via the corresponding GitHub functionality.
+To take part on the workshops and to influence the outcome booking of the meetings is necessary.
 
-
-**Procedure of the SMT service**
-
-1. Publication of suggestions for SMT on this repository by the community (via Issues)
-2. Taking up SMT suggestions with a lot of interest (comments on the issues) and technical familiarization with the subject area
-3. Analysis of existing SMT with regard to overlaps and synergies, evaluation of potential 
-4. Creation of an own repository for the SMT, rough conception of the SMT and description of the use case 
-5. Invitation to workshops for the joint development and processing of issues
-6. Ongoing documentation on GitHub
-7. Quality control and conformity check to the specifications
-8. Organization of the review process and release
-   
-Optional: Submission to the IDTA to set up an IDTA working group for the SMT with the aim of publishing it as an official IDTA specification; handover to this working group and, if funded, support for the IDTA process
+**Book the next SMT Workshops here:**
+- xxx
 
 
+**You can use this repository to publish (create issues for) ideas for new Submodel Templates!** Depending on the potential of the idea and responses of the community we as FoP Consult GmbH will pick up the idea, start with workshop preparations and will publish the booking-link above.
+
+**List of already existing AAS-connect SMT Repositories:**
+- xxx
